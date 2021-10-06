@@ -1,4 +1,4 @@
-# [Задачи на JavaScript](https://kataacademy.github.io/kata-program/frontend-tasks)
+# [Задачи на JavaScript](https://kataacademy.github.io/kata-program.io/frontend-tasks)
 
 Необходимо решить 5 задач на языке javascript. Решения сохранятся на платформе под уникальным url, которые нужно будет выслать нам.
 

@@ -1,4 +1,4 @@
-# [Тестовое задание Frontend](https://kataacademy.github.io/kata-program/frontend-calculator)
+# [Тестовое задание Frontend](https://kataacademy.github.io/kata-program.io/frontend-calculator)
 
 Вам потребуется решить кодовую задачу на языке JavaScript. 
 
@@ -44,19 +44,19 @@ calculate('1 + 1 + 1'); // вернётся исключение throws Error т
 ## Работа с repl.it 
 1. Необходимо зарегистироваться или залогиниться на платформе https://replit.com/
 2. Перейти по сслыке https://repl.it/@JavaMentor/RomanCalculator и нажать кнопку "Fork", чтобы начать решать задачу
-<img src="https://kataacademy.github.io/kata-program/img/fork.png" atl="Неверное решение" width="400px" />
+<img src="https://kataacademy.github.io/kata-program.io/img/fork.png" atl="Неверное решение" width="400px" />
 
 #### Основной интерфейс:
-![Интерфейс](https://kataacademy.github.io/kata-program/img/ui.png)
+![Интерфейс](https://kataacademy.github.io/kata-program.io/img/ui.png)
 
 После нажатия кнопки “run” ваш код будет протестирован. Результаты тестов будет выведен в консоль. В консоли может быть как сообщение об успешном выполнении, так и сообщения об ошибках.  
 Вам нужно написать такой код, который пройдет все проверки.  
 
 #### Решение не прошло проверку
-<img src="https://kataacademy.github.io/kata-program/img/fail.png" atl="Неверное решение" width="800px" />
+<img src="https://kataacademy.github.io/kata-program.io/img/fail.png" atl="Неверное решение" width="800px" />
 
 #### Успешное решение задачи:
-<img src="https://kataacademy.github.io/kata-program/img/success.png" atl="Успешное решение" width="800px" />
+<img src="https://kataacademy.github.io/kata-program.io/img/success.png" atl="Успешное решение" width="800px" />
 
 ## Требования
 - Ты должен решить задачу самостоятельно, без чьей-либо помощи.
