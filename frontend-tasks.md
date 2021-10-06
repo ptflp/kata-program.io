@@ -1,4 +1,4 @@
-# [Задачи на JavaScript](https://jm-program.github.io/frontend-tasks)
+# [Задачи на JavaScript](https://kataacademy.github.io/kata-program/frontend-tasks)
 
 Необходимо решить 5 задач на языке javascript. Решения сохранятся на платформе под уникальным url, которые нужно будет выслать нам.
 
@@ -32,4 +32,4 @@
 - Читаемость кода
 
 ## Как отправить решение?
-Ссылки на решение отправьте нам на почту *info@java-mentor.com* с темой **"Тестовое задание Front-end"**
+Ссылки на решение отправьте нам на почту *info@kata.academy* с темой **"Тестовое задание Front-end"**
