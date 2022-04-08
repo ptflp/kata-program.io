@@ -25,8 +25,10 @@ Java-разработчики требуются в следующих комп�
 ---
 
 
+<br /><br />
 # УРОК 2.<br /><br />
-ШАГ 1. Начни с установки JDK, обрати внимание, нужна 17-я версия. 
+**ШАГ 1.** <br />
+Начни с установки JDK, обрати внимание, нужна 17-я версия. 
 Скачать JDK можно c нашего Яндекс.Диска:<br />
 Linux / AArch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=EB9ba3G9%2FCwmZ%2BNcAeAhIj72qZ17InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9MaW51eOKAil9BQXJjaDY0IG9wZW5qZGstMTcuMC4yX2xpbnV4LWFhcmNoNjRfYmluLnRhci5neiIsInRpdGxlIjoiTGludXjigIpfQUFyY2g2NCBvcGVuamRrLTE3LjAuMl9saW51eC1hYXJjaDY0X2Jpbi50YXIuZ3oiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjExMzAwMDAwNTUwODY1MzkiLCJ0cyI6MTY0NzI3MzE5NDQwOSwieXUiOiI2OTQ0NDkzNzMxNjQ2Mzk4NzQ5In0%3D)<br />
 Linux / x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=Rv9IpnFi3M49SATOBKDxv8AIfqZ7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9MaW51eOKAil%2FigIp4NjQgb3Blbmpkay0xNy4wLjJfbGludXgteDY0X2Jpbi50YXIuZ3oiLCJ0aXRsZSI6IkxpbnV44oCKX%2BKAing2NCBvcGVuamRrLTE3LjAuMl9saW51eC14NjRfYmluLnRhci5neiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA1NTA4NjUzOSIsInRzIjoxNjQ3MjczMjk1NTQ0LCJ5dSI6IjY5NDQ0OTM3MzE2NDYzOTg3NDkifQ%3D%3D)<br />
@@ -35,7 +37,9 @@ macOS / x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055
 Win/x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=j0OBSbpXef18GmUVoVf7UYhnEut7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9NUyBKREsgV2luIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy14NjQuemlwIiwidGl0bGUiOiJNUyBKREsgV2luIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy14NjQuemlwIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxMTMwMDAwMDU1MDg2NTM5IiwidHMiOjE2NDcyNzMzMzk2ODQsInl1IjoiNjk0NDQ5MzczMTY0NjM5ODc0OSJ9)<br />
 Win/Aarch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=tZ%2BCxky9vYvy9oV1bj6md3rSIGN7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9NUyBKREsgV2luZG93cyBBYXJjaCB4NjQgbWljcm9zb2Z0LWpkay0xNy4wLjIuOC4xLXdpbmRvd3MtYWFyY2g2NC56aXAiLCJ0aXRsZSI6Ik1TIEpESyBXaW5kb3dzIEFhcmNoIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy1hYXJjaDY0LnppcCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA1NTA4NjUzOSIsInRzIjoxNjQ3MjczMzY3NTYyLCJ5dSI6IjY5NDQ0OTM3MzE2NDYzOTg3NDkifQ%3D%3D)<br />
 Тут [Инструкция по установке и настройке JDK](https://www.youtube.com/watch?v=iyQ5McUzdVo)<br /><br />
-ШАГ 2. Установи программу для написания кода (среду разработки).
+
+**ШАГ 2.** <br />
+Установи программу для написания кода (среду разработки).
 Самой удобной и распространённой средой разработки является IntelliJ IDEA - [скачать](https://www.jetbrains.com/ru-ru/idea/download/).
 Для подготовки к решению Тестовой задачи подойдет бесплатная версия Community. В процессе обучения мы будем использовать Intellij IDEA, дадим тебе лицензионный ключ от Ultimate версии, её хватит для учебных задач.<br />
 Инструкция по установке и запуску первой программы под Intellij IDEA (продолжение видео из Шага 1) - [смотреть видео](https://www.youtube.com/watch?v=iyQ5McUzdVo).<br /> 
@@ -44,6 +48,7 @@ Win/Aarch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055
 ---
 
 
+<br /><br />
 # УРОК 3.<br /><br />
 Список базовых тем, изучение которых необходимо для решения Тестового задания:<br />
 
@@ -58,24 +63,24 @@ Win/Aarch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055
 [Строки(String). Ссылочные типы данных](https://youtu.be/-YK8B4WO7nI)<br />
 [Класс String и его методы](https://www.youtube.com/watch?v=ERTDiGH3XUA)<br /> <br /> 
 
-4. Циклы в Java, работа с массивами<br /> 
+### 4. Циклы в Java, работа с массивами<br /> 
 [Массивы в Java](https://youtu.be/li86TEAEhYM)<br /> 
 [Цикл for each, Массивы строк](https://youtu.be/8AD55r64yNw)<br /> 
 [Методы в Java](https://youtu.be/ayUbY2sB-IU)<br /> 
 [Тип возвращаемого значения метода](https://youtu.be/wEewTdZEWPY)<br /> 
 [Параметры метода](https://youtu.be/J8ZLRvOO6vk)<br /><br /> 
 
-5. Логические операторы<br />
+### 5. Логические операторы<br />
 [Логическое И, ИЛИ, НЕТ](https://youtu.be/IbKrOnjHdcE)<br /> <br /> 
 
-6. Условные операторы, сравнение, switch case <br />
+### 6. Условные операторы, сравнение, switch case <br />
 [Условный оператор if](https://youtu.be/ryR033ld_N0)<br />
 [Оператор switch](https://youtu.be/QJHcGWbzk3U)<br /> <br />
 
-7. Класс Enum<br />
+### 7. Класс Enum<br />
 [Enum (Перечисления)](https://youtu.be/GOzNp1YAm5w)<br /> <br />
 
-8. Работа с исключениями в Java<br /> 
+### 8. Работа с исключениями в Java<br /> 
 [Исключения (часть 1). Обработка исключений](https://youtu.be/DElNhj71YCk)<br />
 [Исключения (часть 2). Выбрасывание исключений](https://youtu.be/jL7-VdBeh9s)<br />
 [Исключения (часть 3). Checked и Unchecked исключения](https://youtu.be/P7dByA1rz5c)<br />
@@ -90,6 +95,7 @@ Win/Aarch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055
 ---
 
 
+<br /><br />
 # УРОК 4.<br /><br />
 
 #### Задача: программа "Строковый калькулятор"
