@@ -35,8 +35,8 @@ JavaScript-разработчики требуются в следующих к�
 ## Работа с repl.it 
 1. Необходимо зарегистироваться или залогиниться на платформе https://replit.com/
 2. Перейти по сслыке https://repl.it/@JavaMentor/RomanCalculator и нажать кнопку "Fork", чтобы начать решать задачу
-<img src="https://kataacademy.github.io/kata-program.io/img/fork.png" atl="Неверное решение" width="400px" />
-<br /><br />
+<img src="https://kataacademy.github.io/kata-program.io/img/fork.png" atl="Неверное решение" width="400px" /> <br /><br />
+
 #### Основной интерфейс:
 ![Интерфейс](https://kataacademy.github.io/kata-program.io/img/ui.png)
 
