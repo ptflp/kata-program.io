@@ -41,12 +41,13 @@ Java-разработчики требуются в следующих комп�
 **ШАГ 1.** <br />
 Начни с установки JDK, обрати внимание, нужна 17-я версия. 
 Скачать JDK можно c нашего Яндекс.Диска:<br /><br />
-Linux / AArch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=EB9ba3G9%2FCwmZ%2BNcAeAhIj72qZ17InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9MaW51eOKAil9BQXJjaDY0IG9wZW5qZGstMTcuMC4yX2xpbnV4LWFhcmNoNjRfYmluLnRhci5neiIsInRpdGxlIjoiTGludXjigIpfQUFyY2g2NCBvcGVuamRrLTE3LjAuMl9saW51eC1hYXJjaDY0X2Jpbi50YXIuZ3oiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjExMzAwMDAwNTUwODY1MzkiLCJ0cyI6MTY0NzI3MzE5NDQwOSwieXUiOiI2OTQ0NDkzNzMxNjQ2Mzk4NzQ5In0%3D)<br />
-Linux / x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=Rv9IpnFi3M49SATOBKDxv8AIfqZ7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9MaW51eOKAil%2FigIp4NjQgb3Blbmpkay0xNy4wLjJfbGludXgteDY0X2Jpbi50YXIuZ3oiLCJ0aXRsZSI6IkxpbnV44oCKX%2BKAing2NCBvcGVuamRrLTE3LjAuMl9saW51eC14NjRfYmluLnRhci5neiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA1NTA4NjUzOSIsInRzIjoxNjQ3MjczMjk1NTQ0LCJ5dSI6IjY5NDQ0OTM3MzE2NDYzOTg3NDkifQ%3D%3D)<br />
-macOS / AArch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=AZB14NIww6XRrF2Kt78k%2BI5oKMR7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9tYWNPU%2BKAil%2FigIpBQXJjaDY0IG9wZW5qZGstMTcuMC4yX21hY29zLWFhcmNoNjRfYmluLnRhci5neiIsInRpdGxlIjoibWFjT1PigIpf4oCKQUFyY2g2NCBvcGVuamRrLTE3LjAuMl9tYWNvcy1hYXJjaDY0X2Jpbi50YXIuZ3oiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjExMzAwMDAwNTUwODY1MzkiLCJ0cyI6MTY0NzI3MzMwOTY4NSwieXUiOiI2OTQ0NDkzNzMxNjQ2Mzk4NzQ5In0%3D)<br />
-macOS / x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=My4L2L3mOoi1mEHX3RRRWPjcEKF7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9tYWNPU%2BKAil%2FigIp4NjQgb3Blbmpkay0xNy4wLjJfbWFjb3MteDY0X2Jpbi50YXIuZ3oiLCJ0aXRsZSI6Im1hY09T4oCKX%2BKAing2NCBvcGVuamRrLTE3LjAuMl9tYWNvcy14NjRfYmluLnRhci5neiIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA1NTA4NjUzOSIsInRzIjoxNjQ3MjczMzIyNTY0LCJ5dSI6IjY5NDQ0OTM3MzE2NDYzOTg3NDkifQ%3D%3D)<br />
-Win/x64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=j0OBSbpXef18GmUVoVf7UYhnEut7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9NUyBKREsgV2luIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy14NjQuemlwIiwidGl0bGUiOiJNUyBKREsgV2luIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy14NjQuemlwIiwibm9pZnJhbWUiOmZhbHNlLCJ1aWQiOiIxMTMwMDAwMDU1MDg2NTM5IiwidHMiOjE2NDcyNzMzMzk2ODQsInl1IjoiNjk0NDQ5MzczMTY0NjM5ODc0OSJ9)<br />
-Win/Aarch64 [Авторизация](https://docviewer.yandex.ru/view/1130000055086539/?*=tZ%2BCxky9vYvy9oV1bj6md3rSIGN7InVybCI6InlhLWRpc2s6Ly8vZGlzay9PcGVuIEpESy9NUyBKREsgV2luZG93cyBBYXJjaCB4NjQgbWljcm9zb2Z0LWpkay0xNy4wLjIuOC4xLXdpbmRvd3MtYWFyY2g2NC56aXAiLCJ0aXRsZSI6Ik1TIEpESyBXaW5kb3dzIEFhcmNoIHg2NCBtaWNyb3NvZnQtamRrLTE3LjAuMi44LjEtd2luZG93cy1hYXJjaDY0LnppcCIsIm5vaWZyYW1lIjpmYWxzZSwidWlkIjoiMTEzMDAwMDA1NTA4NjUzOSIsInRzIjoxNjQ3MjczMzY3NTYyLCJ5dSI6IjY5NDQ0OTM3MzE2NDYzOTg3NDkifQ%3D%3D)<br /><br />
+Linux / AArch64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-linux-aarch64.tar.gz)<br />
+Linux / x64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-linux-x64.tar.gz)<br />
+macOS / AArch64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-macOS-aarch64.tar.gz)<br />
+macOS / x64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-macOS-x64.tar.gz)<br />
+Win/x64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-windows-x64.zip)<br />
+Win/Aarch64 [Авторизация](https://aka.ms/download-jdk/microsoft-jdk-17.0.2.8.1-windows-aarch64.zip)<br /><br />
+
 Тут [Инструкция по установке и настройке JDK](https://www.youtube.com/watch?v=iyQ5McUzdVo)<br /><br />
 
 **ШАГ 2.** <br />
